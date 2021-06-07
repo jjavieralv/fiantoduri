@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "software": "fiantoduri.sh",
+    "desc": "data variables",
+    "codedby": "jjavieralv",
+    "version": "0.1"
+  },
+
+
+  "cipher": {
+    "type": 0,
+    
+    "symetric":{
+      "pass": ""
+    },
+
+    "asymetric":{
+      "route": "",
+      "pass": ""
+    }
+  },
+
+
+  "fortinet":{
+    "access_method": 0,
+
+    "login":{
+      "traditional":{
+        "user": "",
+        "pass": ""
+      },
+      "cert":{
+        "user": "",
+        "pass":"",
+        "route":""
+      }
+    },
+
+    "net":{
+      "ip": "",
+      "port": ""
+    },
+
+    "config":{
+      "route":""
+    }
+  },
+
+
+  "hopper":{
+    "net":{
+      "ip": "",
+      "port": "",
+      "localport": ""
+    },
+
+    "login":{
+      "cert":{
+        "user": "",
+        "route": "",
+        "pass": ""
+      }
+    }
+  },
+
+
+  "backup":{
+    "type": 0,
+    "dest": 0,
+    "route":""
+  },
+
+
+  "github":{
+    "global":{
+      "user": "",
+      "mail": ""
+    },
+    "cert":{
+      "route":"",
+      "pass":""
+    },
+    "repo":{
+      "name":"",
+      "route":""
+    }
+  },
+
+
+  "artifactory":{
+    "url":"",
+
+    "login":{
+      "token":""
+    },
+
+    "repo":{
+      "name":"",
+      "path":""
+    }
+  }
+
+
+}
