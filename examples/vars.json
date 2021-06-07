@@ -12,12 +12,8 @@
     
     "symetric":{
       "pass": ""
-    },
-
-    "asymetric":{
-      "route": "",
-      "pass": ""
     }
+
   },
 
 

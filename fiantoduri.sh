@@ -3,7 +3,7 @@
 # Backup Fortinet Router Config
 
 # This script allow you to create Fortinet configs backups,download,rotate, cipher and
-# upload them to github repository. Using a HOPPER to connect to the Frotinet Server.
+# upload them to github or artifactory repository. Using a HOPPER to connect to the Frotinet Server.
 #Code by: jjavieralv
 # Version: 0.1v
 
